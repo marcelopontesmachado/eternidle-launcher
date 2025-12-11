@@ -1,0 +1,49 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Assets/Plugins/Editor/JetBrains*
+
+# ================= #
+# Visual Studio     #
+# ================= #
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# =============== #
+# OS generated    #
+# =============== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Thumbs.db.meta
+
+# =============== #
+# Git LFS         #
+# =============== #
+*.psd
+*.png
+*.jpg
+*.jpeg
+*.fbx
+*.anim
+*.controller
+*.prefab
+*.unity
+*.asset
