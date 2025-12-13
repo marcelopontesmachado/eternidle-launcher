@@ -1,0 +1,8 @@
+{
+  "latestVersion": "0.0.1",
+  "windows": {
+    "url": "https://github.com/marcelopontesmachado/eternidle-client/releases/download/v0.0.1/EternidleClient_0.0.1_windows_x64.zip",
+    "sha256": "0887C69F006FE196427877718683C3B15C625269E0BC283246D0F076797020FD",
+    "sizeBytes": 0
+  }
+}
