@@ -1,31 +1,37 @@
-# =============== #
-# Unity generated #
-# =============== #
+# ==========================
+# Unity generated folders
+# ==========================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-UserSettings/
 MemoryCaptures/
-Assets/Plugins/Editor/JetBrains*
 
-# ================= #
-# Visual Studio     #
-# ================= #
+# ==========================
+# Unity user-specific
+# ==========================
+UserSettings/
+
+# ==========================
+# Visual Studio / Rider
+# ==========================
 .vs/
+.idea/
 *.csproj
-*.unityproj
 *.sln
 *.suo
 *.tmp
 *.user
 *.userprefs
+*.pidb
+*.booproj
+*.svd
 
-# =============== #
-# OS generated    #
-# =============== #
+# ==========================
+# OS generated files
+# ==========================
 .DS_Store
 .DS_Store?
 ._*
@@ -34,16 +40,22 @@ Assets/Plugins/Editor/JetBrains*
 Thumbs.db
 Thumbs.db.meta
 
-# =============== #
-# Git LFS         #
-# =============== #
-*.psd
-*.png
-*.jpg
-*.jpeg
-*.fbx
-*.anim
-*.controller
-*.prefab
-*.unity
-*.asset
+# ==========================
+# Crash reports
+# ==========================
+sysinfo.txt
+
+# ==========================
+# Addressables cache (se usar no futuro)
+# ==========================
+/Assets/AddressableAssetsData/*/*.bin*
+
+# ==========================
+# IL2CPP
+# ==========================
+il2cpp_cache/
+
+# ==========================
+# TEMP Unity artifacts
+# ==========================
+*.stackdump
